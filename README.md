@@ -7,3 +7,4 @@ Topics learnt :
 3. If and elif
 
 Day 3 of learning Python
+I am now starting to understand how coding works !
